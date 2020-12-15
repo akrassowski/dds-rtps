@@ -1,0 +1,8 @@
+Script started on 2020-12-15 11:35:24-05:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="101" LINES="24"]
+1608050124.595111474: STARTUP     : LOG    : CoreDX DDS version 4.5.0
+1608050124.595181303: STARTUP     : LOG    : ... logging library in use
+Create topic: Shapes
+Create writer for topic: Shapes color: RED
+on_publication_matched() topic: 'Shapes'  type: 'ShapeType' : matched readers 1 (change = 1)
+
+Script done on 2020-12-15 11:35:29-05:00 [COMMAND_EXIT_CODE="143"]

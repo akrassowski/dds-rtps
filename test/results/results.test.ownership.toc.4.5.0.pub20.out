@@ -1,0 +1,8 @@
+Script started on 2020-12-15 11:36:00-05:00 [<not executed on terminal>]
+1608050160.746948525: STARTUP     : LOG    : CoreDX DDS version 4.5.0
+1608050160.746983699: STARTUP     : LOG    : ... logging library in use
+Create topic: Shapes
+Create writer for topic: Shapes color: RED
+on_publication_matched() topic: 'Shapes'  type: 'ShapeType' : matched readers 1 (change = 1)
+
+Script done on 2020-12-15 11:36:05-05:00 [COMMAND_EXIT_CODE="143"]

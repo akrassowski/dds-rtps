@@ -1,0 +1,8 @@
+Script started on 2020-12-15 11:34:09-05:00 [<not executed on terminal>]
+1608050049.226788768: STARTUP     : LOG    : CoreDX DDS version 4.5.0
+1608050049.226815717: STARTUP     : LOG    : ... logging library in use
+Create topic: Shapes
+Create reader for topic: Shapes
+on_requested_incompatible_qos() topic: 'Shapes'  type: 'ShapeType' : 2 (Durability)
+
+Script done on 2020-12-15 11:34:14-05:00 [COMMAND_EXIT_CODE="143"]
